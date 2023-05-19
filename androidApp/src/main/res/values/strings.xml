@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="close">Close\n</string>
+    <string name="open">Open</string>
+    <string name="swap_languages">Swap languages\n</string>
+    <string name="enter_a_text_to_translate">Enter a text to translate\n</string>
+    <string name="translate">Translate</string>
+    <string name="copy">Copy</string>
+    <string name="play_loud">Play loud</string>
+    <string name="error_service_unavailable">Service unavailable</string>
+    <string name="client_error">Client error</string>
+    <string name="server_error">Server error</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="record_audio">Record audio</string>
+    <string name="copied_to_clipboard">copied</string>
+</resources>
